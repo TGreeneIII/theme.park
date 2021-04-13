@@ -9,7 +9,7 @@
 --main-bg-color:black;
 --body-before:#00ff771a;
 --body-after: #00ff7733;
---body-animation: none; /*flicker;*/
+--body-animation: none;
 --logo: url(https://i.imgur.com/7RA2bEL.png) center no-repeat;
 --text-color: #37f592;
 --input-color: #37f592;
@@ -23,7 +23,7 @@
 --selection-color: #68ffff;
 --custom-text-header:#37f592;
 --custom-text-header-shadow:#37f592;
---custom-text-header-animation: none; /*textflicker;*/
+--custom-text-header-animation: none;
 --input-font: 'Share Tech Mono', monospace;
 --text-font: 'Share Tech Mono', monospace;
 --loginbox-background-color: transparent;
