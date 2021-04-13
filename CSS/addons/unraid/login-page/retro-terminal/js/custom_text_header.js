@@ -8,9 +8,8 @@
 let custom_text_header = `
 <div class="custom-text-header"><pre>  _______   ____ ________  __  _________
  /_  __/ | / / //_/ ____/ /  |/  / ____/
-  / / /  |/ / ,&lt; / / __  / /|_/ / __/   
+  / / /  |/ / ,< / / __  / /|_/ / __/   
  / / / /|  / /| / /_/ / / /  / / /___   
-/_/ /_/ |_/_/ |_____(_)/_/  /_/_____/   
-</pre></div>
+/_/ /_/ |_/_/ |_\____(_)_/  /_/_____/</pre></div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
