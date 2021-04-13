@@ -10,6 +10,6 @@ let custom_text_header = `
  /_  __/ | / / //_/ ____/ /  |/  / ____/
   / / /  |/ / ,< / / __  / /|_/ / __/   
  / / / /|  / /| / /_/ / / /  / / /___   
-/_/ /_/ |_/_/ |_\____(_)_/  /_/_____/</pre></div>
+/_/ /_/ |_/_/ |_\\____(_)_/  /_/_____/</pre></div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
