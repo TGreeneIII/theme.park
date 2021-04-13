@@ -6,13 +6,12 @@
 // You must escape any backward slashes. "\\"
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre>    
-			  _______   ____ ________  __  _________
-			 /_  __/ | / / //_/ ____/ /  |/  / ____/
-			  / / /  |/ / ,< / / __  / /|_/ / __/   
-			 / / / /|  / /| / /_/ / / /  / / /___   
-			/_/ /_/ |_/_/ |_\\____(_)_/  /_/_____/   
+<div class="custom-text-header"> <pre>				  _______   ____ ________  __  _________
+				 /_  __/ | / / //_/ ____/ /  |/  / ____/
+				  / / /  |/ / ,< / / __  / /|_/ / __/   
+				 / / / /|  / /| / /_/ / / /  / / /___   
+				/_/ /_/ |_/_/ |_\\____(_)_/  /_/_____/   
 													
-										</pre> </div>
+						</pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
