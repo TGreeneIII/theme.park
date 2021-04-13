@@ -14,16 +14,16 @@
 /* UNRAID DARK THEME */
 @import url(https://gilbn.github.io/theme.park/CSS/themes/unraid/unraid-base.css);
 :root {
-  --main-bg-color: radial-gradient(circle, #3a3a3a, #2d2d2d, #202020, #141414, #000000) center center/cover no-repeat fixed;
-  --modal-bg-color: radial-gradient(circle , #3a3a3a, #2d2d2d, #202020, #141414, #000000) center center/cover no-repeat fixed;
+  --main-bg-color: radial-gradient(circle, #30332e, #272b27, #1e211e, #080808, #000000) center center/cover no-repeat fixed;
+  --modal-bg-color: radial-gradient(circle , #30332e, #272b27, #1e211e, #080808, #000000) center center/cover no-repeat fixed;
   --body-before:#00ff771a;
   --body-after: #00ff7733;
-  --button-color: #48bd35;
-  --button-color-hover: #48bd35;
+  --button-color: #37f565;
+  --button-color-hover: #37f565;
   --button-text: #eee;
-  --accent-color:  #646464;
+  --accent-color:  #ff8719;
   --accent-color-hover: #ffffff73;
-  --text: #48bd35;
+  --text: #37f565;
   --text-hover: #fff;
   --text-muted: #7a9876;
   --link-hover: rgba(255, 255, 255, 0.45);
